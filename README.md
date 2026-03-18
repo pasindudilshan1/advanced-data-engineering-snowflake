@@ -10,7 +10,7 @@ To successfully follow along with the instructor during the course, you'll need 
 
 > **Note:** There are a couple of exercises that make use of Snowflake's command line interface, Snowflake CLI. To successfully follow along during those exercises, you'll need to have the repo cloned to your local computing environment, so that the Snowflake CLI can make use of files and code within this repo.
 
-#### How to clone the repo to your local computing environment:
+#### How to clone the repo to your local computing environment:WWW
 
 1. Fork the repo to create a copy associated with your GitHub Account: https://github.com/Snowflake-Labs/advanced-data-engineering-snowflake/fork
 
